@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hyperateheartbeat\\module.hyperateheartbeat.cpp",
+        "Source": "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hyperateheartbeat\\module.hyperateheartbeat.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\intermediate\\build\\win64\\x64\\killerimpulseeditor\\development\\engine\\sharedpch.engine.shadowerrors.noundef.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\meg\\documents\\github\\killerimpulse\\intermediate\\build\\win64\\x64\\killerimpulseeditor\\development\\engine\\sharedpch.engine.shadowerrors.noundef.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hyperateheartbeat\\definitions.hyperateheartbeat.h",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperateheartbeat\\uht\\bphyperateheartbeat.gen.cpp",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\public\\bphyperateheartbeat.h",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hyperateheartbeat\\definitions.hyperateheartbeat.h",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperateheartbeat\\uht\\bphyperateheartbeat.gen.cpp",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\public\\bphyperateheartbeat.h",
             "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\json\\public\\json.h",
             "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\core\\public\\misc\\monolithicheaderboilerplate.h",
             "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\core\\public\\core.h",
@@ -77,11 +77,11 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\ucrt\\corecrt_startup.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\ucrt\\math.h",
             "c:\\program files\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\vcruntime_startup.h",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperateheartbeat\\uht\\bphyperateheartbeat.generated.h",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperateheartbeat\\uht\\hyperateheartbeat.init.gen.cpp",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\private\\bphyperateheartbeat.cpp",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\private\\hyperateheartbeat.cpp",
-            "c:\\users\\meg\\documents\\unreal projects\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\public\\hyperateheartbeat.h"
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperateheartbeat\\uht\\bphyperateheartbeat.generated.h",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperateheartbeat\\uht\\hyperateheartbeat.init.gen.cpp",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\private\\bphyperateheartbeat.cpp",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\private\\hyperateheartbeat.cpp",
+            "c:\\users\\meg\\documents\\github\\killerimpulse\\plugins\\hyperateheartbeat.1.0\\hyperateheartbeat\\source\\hyperateheartbeat\\public\\hyperateheartbeat.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

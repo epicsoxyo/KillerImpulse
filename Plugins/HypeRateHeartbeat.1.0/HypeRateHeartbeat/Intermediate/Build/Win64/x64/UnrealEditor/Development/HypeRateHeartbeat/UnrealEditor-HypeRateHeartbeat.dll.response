@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.obj"
-"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.obj"
-"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Default.rc2.res"
+"C:\Users\meg\Documents\GitHub\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.obj"
+"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.obj"
+"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -66,7 +66,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Binaries\Win64\UnrealEditor-HypeRateHeartbeat.dll"
-/IMPLIB:"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\UnrealEditor-HypeRateHeartbeat.suppressed.lib"
-/PDB:"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Binaries\Win64\UnrealEditor-HypeRateHeartbeat.pdb"
+/OUT:"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Binaries\Win64\UnrealEditor-HypeRateHeartbeat.dll"
+/IMPLIB:"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\UnrealEditor-HypeRateHeartbeat.suppressed.lib"
+/PDB:"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Binaries\Win64\UnrealEditor-HypeRateHeartbeat.pdb"
 /ignore:4078

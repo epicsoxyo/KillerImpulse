@@ -3,4 +3,4 @@
 #include "KillerImpulse.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Killer_ImPulse, "KillerImpulse" );
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, KillerImpulse, "KillerImpulse" );

@@ -10,7 +10,7 @@
 	"DocsURL": "https://github.com/ReDiGermany/HypeRateUE",
 	"MarketplaceURL": "",
 	"SupportURL": "https://github.com/ReDiGermany/HypeRateUE/issues",
-	"EngineVersion": "4.27.0",
+	"EngineVersion": "5.2.0-25360045+++UE5+Release-5.2",
 	"CanContainContent": true,
 	"Installed": true,
 	"Modules": [

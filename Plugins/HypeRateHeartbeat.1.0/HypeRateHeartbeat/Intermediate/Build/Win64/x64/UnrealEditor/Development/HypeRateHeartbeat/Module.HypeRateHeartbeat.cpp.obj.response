@@ -1,6 +1,6 @@
-"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp"
+C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp
 /I .
-/I "C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Source\HypeRateHeartbeat\Private"
+/I C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Source\HypeRateHeartbeat\Private
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I Runtime
@@ -273,9 +273,9 @@
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I "C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\UnrealEditor\Inc\HypeRateHeartbeat\UHT"
-/I "C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Source"
-/I "C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Source\HypeRateHeartbeat\Public"
+/I C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\UnrealEditor\Inc\HypeRateHeartbeat\UHT
+/I C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Source
+/I C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Source\HypeRateHeartbeat\Public
 /I Runtime\Online\WebSockets\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
@@ -286,12 +286,12 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h"
-/FI"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Definitions.HypeRateHeartbeat.h"
-/Yu"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h"
-/Fp"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.obj"
-/sourceDependencies "C:\Users\meg\Documents\Unreal Projects\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.dep.json"
+/FI"C:\Users\meg\Documents\GitHub\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h"
+/FI"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Definitions.HypeRateHeartbeat.h"
+/Yu"C:\Users\meg\Documents\GitHub\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h"
+/Fp"C:\Users\meg\Documents\GitHub\KillerImpulse\Intermediate\Build\Win64\x64\KillerImpulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.obj"
+/sourceDependencies C:\Users\meg\Documents\GitHub\KillerImpulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
