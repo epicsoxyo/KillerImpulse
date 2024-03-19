@@ -2,7 +2,7 @@
 Game a Week 4 || Theme: The Nightmare Heart
 
 **Description:**
-Killer ImPulse is a thrilling game developed in one week for Manchester Metropolitain University's fortnightly game jam, Game a Week. In this game, you step into the shoes of a serial killer trying to get some much-needed rest, only to find yourself trapped in a nightmare where your victims are hunting you down. Your objective is to stay asleep for as long as possible by avoiding your enemies and silencing your alarm clock.
+Killer ImPulse is a thrilling game developed in one week for Manchester Metropolitan University's fortnightly game jam, Game a Week. In this game, you step into the shoes of a serial killer trying to get some much-needed rest, only to find yourself trapped in a nightmare where your victims are hunting you down. Your objective is to stay asleep for as long as possible by avoiding your enemies and silencing your alarm clock.
 
 **Gameplay:**
 Your victims will actively hunt you down, and if they catch you, it's game over. Meanwhile, alarm clocks will spawn randomly across the map. You must silence your alarms within 15 seconds or else they will wake you up. Try to sleep for as long as possible.
