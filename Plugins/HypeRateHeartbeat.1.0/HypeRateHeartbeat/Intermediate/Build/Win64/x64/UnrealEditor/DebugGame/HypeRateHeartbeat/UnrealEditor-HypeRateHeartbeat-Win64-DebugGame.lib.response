@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HypeRateHeartbeat-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Intermediate\Build\Win64\x64\Killer_ImPulseEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.obj"
+"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.obj"
+"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\HypeRateHeartbeat\Default.rc2.res"
+/OUT:"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\HypeRateHeartbeat\UnrealEditor-HypeRateHeartbeat-Win64-DebugGame.lib"

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HypeRateHeartbeat.cpp.obj": [
+			"BPHypeRateHeartbeat.gen.cpp.obj",
+			"HypeRateHeartbeat.init.gen.cpp.obj",
+			"BPHypeRateHeartbeat.cpp.obj",
+			"HypeRateHeartbeat.cpp.obj"
+		]
+	}
+}

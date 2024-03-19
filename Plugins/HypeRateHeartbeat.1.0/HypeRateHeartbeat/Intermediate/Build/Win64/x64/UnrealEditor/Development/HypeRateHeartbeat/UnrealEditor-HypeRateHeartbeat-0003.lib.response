@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HypeRateHeartbeat-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Intermediate\Build\Win64\x64\Killer_ImPulseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_0.h.obj"
+"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Module.HypeRateHeartbeat.cpp.obj"
+"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\Default.rc2.res"
+/OUT:"C:\Users\meg\Documents\Unreal Projects\Killer_ImPulse\Plugins\HypeRateHeartbeat.1.0\HypeRateHeartbeat\Intermediate\Build\Win64\x64\UnrealEditor\Development\HypeRateHeartbeat\UnrealEditor-HypeRateHeartbeat-0003.lib"

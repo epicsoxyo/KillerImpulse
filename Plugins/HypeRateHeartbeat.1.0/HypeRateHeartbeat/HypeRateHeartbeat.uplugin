@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HypeRate.io Heartbeat receiver",
+	"Description": "HypeRate.io Unreal Engine Plugin",
+	"Category": "Hype Rate",
+	"CreatedBy": "Max 'ReDiGermany' Kruggel",
+	"CreatedByURL": "https://github.com/ReDiGermany",
+	"DocsURL": "https://github.com/ReDiGermany/HypeRateUE",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/ReDiGermany/HypeRateUE/issues",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "HypeRateHeartbeat",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
